@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+li a{
+    text-decoration: none;
+    font-size: 30px;
+    color: #fff;
+    background-color: rgb(125, 183, 241);
+    font-family:sans-serif;
+    padding: 5px 10px;
+    border-radius: 30%;
+}
+nav ul li{
+    float: left;
+    list-style: none;
+    padding: 20px 30px;
+}
+.buttons-top{
+    background-color: rgb(32, 101, 206);
+    height: 200px;
+}
+.logo img{
+    display: flex;
+    float: left;
+    height: 50px;
+}
